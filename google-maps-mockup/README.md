@@ -5,6 +5,9 @@
 - type `ng serve` for a dev server
 - navigate to `http://localhost:4200/`
 
+## Production
+- type ng build --prod
+- deploy dist catalog
 ## How to use
 - on mobile device go to[google-maps-mock](https://cx-covid19-bot.web.app/)
 - click on "Chat" 
