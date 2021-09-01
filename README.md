@@ -10,6 +10,8 @@ This bot is prepared for an integration with Business Messages, to make it avail
 
 With minor changes this system can be integrated with a clinic's contact center. 
 
+[Try it here](https://cx-covid19-bot.web.app)
+
 ### Rationale
 
 This bot is designed to enable COVID-19 registration, while providing the end user with factual data on COVID-19 and vaccines. This is meant to lower the hesitance of end users reluctant to get vaccinated by allowing them to make a well-informed choice during the registration process. 
