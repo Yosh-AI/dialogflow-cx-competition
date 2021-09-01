@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a COVID-19 registration bot, submitted for Dialogflow CX Competition.
+This is a COVID-19 registration bot integrated with Google Business Messages that is available on ** mobile devices only**, submitted for Dialogflow CX Competition.
 
 This chatbot is designed mainly as an automated registration system for a clinic/hospital/vaccination point, enhanced with FAQ capabilities. 
 
