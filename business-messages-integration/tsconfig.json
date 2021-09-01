@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "resolveJsonModule": true,
+    "rootDir": "src/",
+    "outDir": "./lib",
+    "sourceMap": true,
+    "target": "es2019",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ],
+  "exclude": ["node_modules", "test", "dist", "**/*spec.ts", "**/.env"]
+}

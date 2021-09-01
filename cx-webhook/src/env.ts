@@ -1,0 +1,4 @@
+require('dotenv').config()
+export const SPREADSHEET_ID = process.env.SPREADSHEET_ID;
+export const GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY = process.env.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY;
+export const GOOGLE_SERVICE_ACCOUNT_EMAIL = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
