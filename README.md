@@ -31,12 +31,12 @@ This bot is designed to enable COVID-19 registration, while providing the end us
 
 ### This project contains:
 
-1. Dialogflow CX project, repo path /cx-agent/agent_covid19_bot.blob
+1. Dialogflow CX project, repo [agent directory](https://github.com/Yosh-AI/dialogflow-cx-competition/tree/main/cx-agent)
 2. "External database" - Google sheets file (with 3 tabs: 1. user data 2. available dates 3. Records )
 [Link](https://docs.google.com/spreadsheets/d/1UWS0kNt2D2MZgoHwmF4gBpFHYZannSh9p5Nwwm6AutY/edit#gid=0)
-3. Webhooks supporting some of the system's capabilities, repo path /cx-webhook
-4. Business Messages integration /business-messages-integrations
-5. Mock of Google Maps [Google Maps Mock](https://cx-covid19-bot.web.app) Chat button, repo path /google-maps-mockup
+3. Webhooks supporting some of the system's capabilities, repo [cx-webhook](https://github.com/Yosh-AI/dialogflow-cx-competition/tree/main/cx-webhook)
+4. Business Messages integration, repo [business-messages-integration](https://github.com/Yosh-AI/dialogflow-cx-competition/tree/main/business-messages-integration)
+5. Mock of Google Maps [Google Maps Mock](https://cx-covid19-bot.web.app) Chat button, repo [google-maps-mockup](https://github.com/Yosh-AI/dialogflow-cx-competition/tree/main/google-maps-mockup)
 
 ### "Happy path"
 
